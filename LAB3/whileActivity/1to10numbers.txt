@@ -1,0 +1,30 @@
+﻿The counter is now 1 .
+The counter is now 2 .
+The counter is now 3 .
+The counter is now 4 .
+The counter is now 5 .
+The counter is now 6 .
+The counter is now 7 .
+The counter is now 8 .
+The counter is now 9 .
+The counter is now 10 .
+The counter is now 1 .
+The counter is now 2 .
+The counter is now 3 .
+The counter is now 4 .
+The counter is now 5 .
+The counter is now 6 .
+The counter is now 7 .
+The counter is now 8 .
+The counter is now 9 .
+The counter is now 10 .
+numbers from 1 to 10 using do while --> 1
+numbers from 1 to 10 using do while --> 2
+numbers from 1 to 10 using do while --> 3
+numbers from 1 to 10 using do while --> 4
+numbers from 1 to 10 using do while --> 5
+numbers from 1 to 10 using do while --> 6
+numbers from 1 to 10 using do while --> 7
+numbers from 1 to 10 using do while --> 8
+numbers from 1 to 10 using do while --> 9
+numbers from 1 to 10 using do while --> 10
